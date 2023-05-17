@@ -1,0 +1,98 @@
+{
+  "title": "Home page",
+  "blocks": [
+    {
+      "title": "Limited Edition Products",
+      "subTitle": "Order yours at a discounted price",
+      "_template": "hero"
+    },
+    {
+      "products": [
+        {
+          "productPic": "/1.png",
+          "productName": "Ochstin Mechanical ",
+          "productPrice": "$500"
+        },
+        {
+          "productPic": "/toyota-86-chronog-citizen-eco-toyota-joint-sports-watches.png",
+          "productName": "Toyota Chronog Citizen",
+          "productPrice": "$700"
+        },
+        {
+          "productPic": "/hugo-boss-swiss-quartz.png",
+          "productName": "Hugo Boss Quartz",
+          "productPrice": "$2500"
+        },
+        {
+          "productPic": "/asset/mount-morton-profile-series-watches.png",
+          "productName": "Mount Morton Profile",
+          "productPrice": "$2500"
+        },
+        {
+          "productPic": "/asset/bmw-watch-mini.png",
+          "productName": "Bmw Mini",
+          "productPrice": "$150"
+        },
+        {
+          "productPic": "/asset/kisspng-citizen-watch-eco-drive-sapphire-citizen.png",
+          "productName": "Kisspng Citizen Sapphire",
+          "productPrice": "$900"
+        },
+        {
+          "productPic": "/asset/tissot-watches-porsche.png",
+          "productName": "Tissot Porsche",
+          "productPrice": "850"
+        },
+        {
+          "productPic": "/asset/police-stylish-atmosphere-quartz-watch.png",
+          "productName": "Police Stylish Quartz",
+          "productPrice": "$777"
+        }
+      ],
+      "_template": "products"
+    },
+    {
+      "testimonials": [
+        {
+          "title": "Very easy this was to get",
+          "description": "\" I love this watch! It's stylish, durable, and easy to use. And the best part is, I got it for a great price. Thanks for the amazing deal!\"",
+          "name": "Bonnie Green",
+          "position": "Teacher at MIT",
+          "profilePic": "/asset/karen-nelson.png"
+        },
+        {
+          "title": "Solid foundation for new Collectors",
+          "description": "\"This watch is a steal! It looks expensive, but it was very affordable. It has all the features I need, and it keeps perfect time. I'm so happy with my purchase!\"",
+          "name": "Roberta Casas",
+          "position": "COO at Dropbox",
+          "profilePic": "/asset/joseph-mcfall.png"
+        },
+        {
+          "title": "Mindblowing product",
+          "description": "\"What a bargain! This watch is beautiful and functional. It has a sleek design, a comfortable band, and a clear display. It was worth every penny, and then some!\"",
+          "name": "Jese Leos",
+          "position": "Content Creator @ YouTube",
+          "profilePic": "/asset/jese-leos.png"
+        },
+        {
+          "title": "It's modern, sophisticated, and accurat",
+          "description": "\"This watch is awesome! It's elegant, versatile, and reliable. It matches any outfit, and it has a long battery life. I can't believe I got it for such a low price!\"",
+          "name": "Joseph McFall",
+          "position": "Driver @ Formula One",
+          "profilePic": "/asset/orange-robot.png"
+        }
+      ],
+      "_template": "testimonials"
+    },
+    {
+      "header": "Contact Us",
+      "title": "Let's talk!",
+      "subTitle": "Fill in the form to start a conversation.",
+      "bigImage": "/asset/doodle.png",
+      "fullName": "Full Name",
+      "email": "Email",
+      "message": "Message",
+      "_template": "contactUs"
+    }
+  ]
+}
